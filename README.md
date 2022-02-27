@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luciocode
+- 👋 Hi, I’m @LucioSergio
 - 👀 I’m interested in c,python
 - 🌱 I’m currently learning c,python
 - 📫 How to reach me luciosergio2006@gmail.com
