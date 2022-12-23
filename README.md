@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucioSergio
 - 👀 I’m interested in c,python
-- 🌱 I’m currently learning c,python
+- 🌱 I’m currently learning c,python,dart and flutter
 - 📫 How to reach me luciosergio2006@gmail.com
 
 <!---
