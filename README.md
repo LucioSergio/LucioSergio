@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucioSergio
-- 🌱 I’m currently learning c,python,dart and flutter
+- 🌱 I’m currently learning c,c++,python
 - 📫 How to reach me luciosergio2006@gmail.com
 
 <!---
